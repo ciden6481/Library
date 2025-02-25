@@ -2,8 +2,8 @@ site_name: 'Function Library & Snippets'
 site_description: 'A custom functions library'
 site_author: 'Win Iden'
 docs_dir: docs/
-repo_name: 'winiden/library'
-repo_url: 'https://github.com/winiden/Library'
+repo_name: 'ciden6481/library'
+repo_url: 'https://github.com/ciden6481/Library'
 nav:
     - Home: index.md
     - DAX: DAX/DAX-statements.md
