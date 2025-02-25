@@ -15,8 +15,7 @@ nav:
 
 theme:
   name: 'material'
-  icon:
-      logo: material/function-variant
+  logo: material/function-variant
   features:
       - navigation.instant
       - navigation.tracking
