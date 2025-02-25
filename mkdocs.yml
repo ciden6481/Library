@@ -1,6 +1,7 @@
 site_name: 'Function Library & Snippets'
 site_description: 'A custom functions library'
 site_author: 'Win Iden'
+site_url: 'https://ciden6481.github.io/Library/'
 docs_dir: docs/
 repo_name: 'ciden6481/library'
 repo_url: 'https://github.com/ciden6481/Library'
@@ -14,6 +15,40 @@ nav:
 
 theme:
   name: 'material'
+  icon:
+      logo: material/function-variant
+  features:
+      - navigation.instant
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.path
+      - toc.follow
+      - toc.integrate
+      - search.suggest
+      - search.highlight
+      - content.code.copy
+      - content.code.annotate
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+      
   palette: 
+          # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
