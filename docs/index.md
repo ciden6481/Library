@@ -2,3 +2,4 @@
 ## Excel functions
 ## PowerBI functions
 ## DAX expressions
+{excel} excel
