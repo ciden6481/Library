@@ -7,7 +7,7 @@ repo_name: 'ciden6481/library'
 repo_url: 'https://github.com/ciden6481/Library'
 nav:
     - Home: index.md
-    - DAX: DAX/DAX-statements.md
+    - DAX: DAX/
     - Excel: excel/excel-functions.md
     - Power BI: powerbi/pbi-functions.md
     - Power Query: powerquery/pq-functions.md
