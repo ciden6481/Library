@@ -7,11 +7,11 @@ repo_name: 'ciden6481/library'
 repo_url: 'https://github.com/ciden6481/Library'
 nav:
     - Home: index.md
-    - DAX: DAX/
+    - DAX: DAX/DAX-index.md
     - Excel: excel/excel-index.md
-    - Power BI: powerbi/pbi-functions.md
-    - Power Query: powerquery/pq-functions.md
-    - Misc: misc/misc.md
+    - Power BI: powerbi/powerbi-index.md
+    - Power Query: powerquery/powerquery-index.md
+    - Misc: misc/misc-index.md
 
 theme:
   name: 'material'
@@ -46,6 +46,9 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
+
+plugins:
+  - tags
 
 markdown_extensions:
 

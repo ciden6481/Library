@@ -1,10 +1,13 @@
-# A library to serve custom functions and code snippets
+# Functions & Code Library
 
-## [Excel functions](excel/excel-index.md)
+## [Excel](excel/excel-index.md)
 
-## PowerBI functions
+## Power BI
 
-## DAX expressions
+## DAX
 
-{excel} excel
+## Reference
+
+
+
 
