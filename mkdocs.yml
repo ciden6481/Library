@@ -49,6 +49,7 @@ theme:
 
 plugins:
   - tags
+  - search
 
 markdown_extensions:
 
