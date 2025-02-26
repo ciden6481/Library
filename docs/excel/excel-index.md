@@ -4,13 +4,4 @@
 
 ### Lambda
 
-[findandzero[(docs/excel/findandzero.md)
-
-
-
-
-
-
-
-
-
+[findandzero lambda function](findandzero.md)
